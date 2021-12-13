@@ -1,4 +1,4 @@
-## Age dataset: age of death and other basic information for over 1.22 million historical figures (data, methods, and applications) 
+## Life, work, and mortality of 1.22M distinguished people
 
  [![CC BY 4.0][cc-by-shield]][cc-by]
  
