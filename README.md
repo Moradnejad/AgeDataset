@@ -10,7 +10,9 @@ Related paper accepted to the ICWSM Workshop on Data for the Wellbeing of Most V
  
  # How to cite
  
+```
 Annamoradnejad, Issa; Annamoradnejad, Rahimberdi (2022), “Age dataset: A structured general-purpose dataset on life, work, and death of 1.22 million distinguished people”, In Workshop Proceedings of the 16th International AAAI Conference on Web and Social Media (ICWSM), doi: 10.36190/2022.82
+```
  
 [![CC BY 4.0][cc-by-shield]][cc-by]
 This work is licensed under a
