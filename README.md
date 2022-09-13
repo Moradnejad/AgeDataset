@@ -6,7 +6,7 @@
  
  We developed a five-step method and inferred birth and death years, binary gender, and occupation from community-submitted data to all language versions of the Wikipedia project. The dataset is the largest on notable deceased people and includes individuals from a variety of social groups, including but not limited to 107k females, 124 non-binary people, and 90k researchers, who are spread across more than 300 contemporary or historical regions.
 
-Related paper accepted to the ICWSM Workshop on Data for the Wellbeing of Most Vulnerable.
+The related paper is published in the ICWSM Workshop preceedings on Data for the Wellbeing of Most Vulnerable: https://workshop-proceedings.icwsm.org/abstract?id=2022_82
  
  # How to cite
  
